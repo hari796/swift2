@@ -31,7 +31,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  <div class="form-group">
 		<label for="passengers">Number of passengers</label>
 		<select class="form-control" name="passengers" id="passengers">
-		  <option>1</option>
 		  <option>2</option>
 		  <option>3</option>
                   <option>4</option>
